@@ -1,0 +1,21 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="change-the-format-of-the-character-table">
+  <info>
+    <revision version="0.1" date="2012-01-10" status="stub"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email>baptistem@gnome.org</email>
+      <years>2012</years>
+    </credit>
+
+    <link type="guide" xref="index"/>
+  </info>
+
+  <title>Change the Format of the Character Table</title>
+
+  <p>To change the format of the character table, choose <guiseq><gui>View</gui><gui>Snap Columns to Power of Two</gui></guiseq>.</p>
+  <p><app>Character Map</app> changes the <gui>Character Table</gui> tabbed section so that the number of columns is a power of two, for example, two columns, four columns, eight columns, and so on. The number of columns depends on the size of the window and the size of the font.</p>
+
+</page>

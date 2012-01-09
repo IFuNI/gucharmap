@@ -1,0 +1,28 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="change-the-format-of-a-character">
+  <info>
+    <revision version="0.1" date="2012-01-10" status="stub"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email>baptistem@gnome.org</email>
+      <years>2012</years>
+    </credit>
+    <link type="guide" xref="index"/>
+  </info>
+
+  <title>Change the Format of a Character</title>
+
+  <p>To change the format of a character, perform any of the following steps:</p>
+  <list>
+	  <item><p>To change the font, select a font from the font drop-down list.</p></item>
+	  <item><p>To change the font type to bold type, click on the Bold button, or press shortcut key <keyseq><key>Alt</key><key>B</key></keyseq></p></item>
+	  <item><p>To change the font type to italic type, click on the Italic button, or press shortcut key <keyseq><key>Alt</key><key>I</key></keyseq></p></item>
+	  <item><p>To increase the font size, choose <guiseq><gui>View</gui><gui>Zoom In</gui></guiseq> or use the zoom spin box, or press shortcut key <keyseq><key>Ctrl</key><key>+</key></keyseq></p></item>
+	  <item><p>To decrease the font size, choose <guiseq><gui>View</gui><gui>Zoom Out</gui></guiseq> or use the zoom spin box, or press shortcut key <keyseq><key>Ctrl</key><key>-</key></keyseq></p></item>
+	  <item><p>To display normal font size, choose <guiseq><gui>View</gui><gui>Normal Size</gui></guiseq> or press shortcut key <keyseq><key>Ctrl</key><key>=</key></keyseq></p></item>
+  <item><p>To magnify the selected character, hold <key>Shift</key></p></item>
+  </list>
+
+</page>

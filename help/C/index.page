@@ -1,0 +1,13 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="index">
+
+<title>Character Map Help</title>
+
+<p>The <app>Character Map</app> application allows you to insert special characters into a document or a text field. <app>Character Map</app> provides accented characters, mathematical symbols, special symbols, and punctuation marks. Use <app>Character Map</app> to access characters that are not available on your keyboard.</p>
+<figure>
+  <title><app>Character Map</app> main window</title>
+  <desc>The main window of<app>Character Map</app> showing example characters.</desc>
+  <media type="image" src="figures/gucharmap.png"/>
+</figure>
+</page>

@@ -1,0 +1,38 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="browse-through-all-characters">
+  <info>
+    <revision version="0.1" date="2012-01-09" status="stub"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email>baptistem@gnome.org</email>
+      <years>2012</years>
+    </credit>
+
+	  <link type="guide" xref="index"/>
+    <desc></desc>
+  </info>
+
+  <title>Browse Through all Characters</title>
+
+  <p>To browse through the character map, use the <gui>Go</gui> menu.</p>
+
+  <list>
+    <item><p>Next character, or press shortcut key <keyseq><key>Ctrl</key><key>N</key></keyseq>.</p></item>
+    <item><p>Previous character, or press shortcut key <keyseq><key>Ctrl</key><key>P</key></keyseq>.</p></item>
+<item><p>Next script, or press shortcut key <keyseq><key>Ctrl</key><key>Page Down</key></keyseq>.</p></item>
+<item><p>Previous script, or press shortcut key <keyseq><key>Ctrl</key><key>Page Up</key></keyseq>.</p></item>
+  </list>
+
+  <p>You can browse the character map by individual character, and script or by Unicode block. This depends on whether the character map is showing scripts or Unicode blocks. To change this, choose <guiseq><gui>View</gui><gui>By Script</gui></guiseq> or <guiseq><gui>View</gui><gui>By Unicode Block</gui></guiseq>.</p>
+
+  <p>The following keys also work for browsing the character map:</p>
+
+  <list>
+	  <item><p>Press the arrow keys on the keyboard to browse through the characters.</p></item>
+	  <item><p>Press the <key>Page Up</key> and <key>Page Down</key> keys to browse through the characters page by page.</p></item>
+	  <item><p>Press the <key>Home</key> key to select the first character in the Unicode sequence. To select the last character, press the <key>End</key> key.</p></item>
+  </list>
+
+</page>

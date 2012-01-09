@@ -1,0 +1,26 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="copy-and-paste-your-text-string-into-an-application">
+  <info>
+    <revision version="0.1" date="2012-01-09" status="stub"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email>baptistem@gnome.org</email>
+      <years>2012</years>
+    </credit>
+    <link type="guide" xref="index"/>
+  </info>
+
+  <title>Copy and Paste Your Text String into an Application</title>
+
+  <p>To copy and paste the text string from the Text to copy field into an application, perform the following steps:</p>
+  <list>
+  	<item><p>Click <gui>Copy</gui>. If none or all of the text string is selected, all of the string is copied to the clipboard. If a portion of the string is selected, only that portion is copied.</p></item>
+  	<item><p>Switch to your application and choose <guiseq><gui>Edit</gui><gui>Paste</gui></guiseq>, or press shortcut key <keyseq><key>Ctrl</key><key>V</key></keyseq>.</p></item>
+  </list>
+
+  <p>When you paste the contents of the <gui>Text to copy</gui> field into other applications, the text string appears in the current character set of the application.</p>
+  
+  <p>If your text string contains non-visible characters, you can only insert the text string into applications that support the full character set.</p>
+</page>

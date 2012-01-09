@@ -1,0 +1,24 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="change-the-character-set-list">
+  <info>
+    <revision version="0.1" date="2012-01-09" status="stub"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email>baptistem@gnome.org</email>
+      <years>2012</years>
+    </credit>
+
+    <desc></desc>
+    <link type="guide" xref="index"/>
+  </info>
+
+  <title>Change the Character-Set List</title>
+
+  <list>
+    <item><p>To list the character sets by script name, choose <guiseq><gui>View</gui><gui>By Script</gui></guiseq>.</p></item>
+    <item><p>To list the character sets by Unicode block, choose <guiseq><gui>View</gui><gui>By Unicode Block</gui></guiseq>.</p></item>
+  </list>
+
+</page>

@@ -1,0 +1,31 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="create-a-text-string">
+  <info>
+    <revision version="0.1" date="2012-01-09" status="stub"/>
+
+    <credit type="author copyright">
+      <name>Baptiste Mille-Mathias</name>
+      <email>baptistem@gnome.org</email>
+      <years>2012</years>
+    </credit>
+
+    <link type="guide" xref="index"/>
+  </info>
+
+  <title>Create a Text String</title>
+
+  <p>To create a text string in the <gui>Text to copy</gui> widget, perform the following steps:</p>
+  <list>
+    <item><p>Select a character set from the Script or Unicode Block list box.</p></item>
+    <item><p>Insert characters in one of the following ways: </p>
+			<list>
+				<item><p>Double-click on a character button in the Character Table tabbed section, to insert the character in the Text to copy field.</p> </item>
+				<item><p>Select a character button in the Character Table tabbed section, then press <key>Return</key> to insert the character in the Text to copy field.</p></item>
+				<item><p>Select a character button in the Character Table tabbed section, then click and drag the character to the Text to copy field.</p></item>
+				<item><p>Click on the Text to copy field to give focus to the field. If a text string is already in the field, click on the text string at the point where you want to insert the character. Press a character key on your keyboard to insert that character into the field.</p></item>
+			</list>
+		</item>
+  </list>
+
+</page>
