@@ -5,6 +5,9 @@
 <title>Character Map Help</title>
 
 <p>The <app>Character Map</app> application allows you to insert special characters into a document or a text field. <app>Character Map</app> provides accented characters, mathematical symbols, special symbols, and punctuation marks. Use <app>Character Map</app> to access characters that are not available on your keyboard.</p>
+
+<p><app>Character Map</app> displays all the characters are available in all of the language scripts on your system, using the Unicode character set. Unicode is a character set standard with the goal to include all of the characters that are used in all of the written languages in the world.</p>
+
 <figure>
   <title><app>Character Map</app> main window</title>
   <desc>The main window of<app>Character Map</app> showing example characters.</desc>
